@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zacfire-mcp-web-reader-badge.png)](https://mseep.ai/app/zacfire-mcp-web-reader)
+
 # MCP Web Reader
 
 一个强大的 MCP (Model Context Protocol) 服务器，让 Claude 和其他大语言模型能够读取和解析网页内容。支持突破访问限制，轻松获取微信文章、时代杂志等受保护内容。
